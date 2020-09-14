@@ -1,0 +1,219 @@
+{
+   "1": {
+     "id": "1",
+     "name": "Pulpit Rock Park Loop",
+     "city": "Colorado Springs",
+     "location": "Austin Bluffs Open Space",
+     "difficulty": "moderate",
+     "length": "4.2 mi",
+     "time": "2h 4m"
+   },
+   "2": {
+      "id": "2",
+      "name": "Seven Bridges Trail",
+      "city": "Colorado Springs",
+      "location": "North Cheyenne-Cañon Park",
+      "difficulty": "moderate",
+      "length": "3.8 mi",
+      "time": "1h 31m"
+    },
+    "3": {
+      "id": "3",
+      "name": "The Pool via Fern Lake Trail",
+      "city": "Estes Park",
+      "location": "Rocky Mountain National Park",
+      "difficulty": "easy",
+      "length": "3.3 mi",
+      "time": "1h 30m"
+    },
+    "4": {
+      "id": "4",
+      "name": "Lily Ridge Trail",
+      "city": "Estes Park",
+      "location": "Rocky Mountain National Park",
+      "difficulty": "easy",
+      "length": "1.1 mi",
+      "time": "35m"
+    },
+    "5": {
+      "id": "5",
+      "name": "Sky Pond via Glacier Gorge Trail",
+      "city": "Estes Park",
+      "location": "Rocky Mountain National Park",
+      "difficulty": "hard",
+      "length": "9.5 mi",
+      "time": "4h 49m"
+    },
+    "6": {
+      "id": "6",
+      "name": "Green Mountain Loop",
+      "city": "Boulder",
+      "location": "Chautauqua Park",
+      "difficulty": "hard",
+      "length": "7.2 mi",
+      "time": "4h 11m"
+    },
+    "7": {
+      "id": "7",
+      "name": "Bluebell Trail, Woods Quarry Trail, and Enchanted Mesa",
+      "city": "Boulder",
+      "location": "Boulder Open Space",
+      "difficulty": "moderate",
+      "length": "3.1 mi",
+      "time": "1h 43m"
+    },
+    "8": {
+      "id": "8",
+      "name": "Saint Mary's Glacier",
+      "city": "Idaho Springs",
+      "location": "Arapaho National Forest",
+      "difficulty": "moderate",
+      "length": "1.9 mi",
+      "time": "1h 19m"
+    },
+    "9": {
+      "id": "9",
+      "name": "Mount Evans Resthouse Trail to Lincoln Lake",
+      "city": "Idaho Springs",
+      "location": "Mount Evans Wilderness",
+      "difficulty": "hard",
+      "length": "11 mi",
+      "time": "5h 26m"
+    },
+    "10": {
+      "id": "10",
+      "name": "Fossil Trail",
+      "city": "Golden",
+      "location": "South Table Mountain Park",
+      "difficulty": "easy",
+      "length": "1.6 mi",
+      "time": "45m"
+    },
+    "11": {
+      "id": "11",
+      "name": "Chavez and Beaver Brook Trail Loop",
+      "city": "Golden",
+      "location": "Genesee Park",
+      "difficulty": "moderate",
+      "length": "5.1 mi",
+      "time": "2h 48m"
+    },
+    "12": {
+      "id": "12",
+      "name": "Grays Peak and Kelso Ridge Loop",
+      "city": "Silver Plume",
+      "location": "Arapaho National Forest",
+      "difficulty": "hard",
+      "length": "13.1 mi",
+      "time": "8h 39m"
+    },
+    "13": {
+      "id": "13",
+      "name": "Mount Parnassus via Watrous Gulch",
+      "city": "Silver Plume",
+      "location": "Arapaho National Forest",
+      "difficulty": "hard",
+      "length": "6.7 mi", 
+      "time": "4h 55m"
+    },
+    "14": {
+      "id": "14",
+      "name": "Mount Bierstadt Trail",
+      "city": "Silver Plume",
+      "location": "Mount Evans Wilderness",
+      "difficulty": "hard",
+      "length": "7.5 mi", 
+      "time": "4h 2m"
+    },
+    "15": {
+      "id": "15",
+      "name": "Ridge Trail to Wildflower Paths Loop",
+      "city": "Colorado Springs",
+      "location": "Stratton Open Space",
+      "difficulty": "moderate",
+      "length": "0.9 mi", 
+      "time": "26m"
+    },
+    "16": {
+      "id": "16",
+      "name": "Switzerland Trail",
+      "city": "Boulder",
+      "location": "Roosevelt National Forest",
+      "difficulty": "easy",
+      "length": "20.1 mi", 
+      "time": "9h 21m"
+    },
+    "17": {
+      "id": "17",
+      "name": "Lower Big Bluestem to South Boulder Peak",
+      "city": "Boulder",
+      "location": "Boulder Open Space",
+      "difficulty": "hard",
+      "length": "10.1 mi", 
+      "time": "6h 12m"
+    },
+    "18": {
+      "id": "18",
+      "name": "Shanahan North Fork and Connector Loop", 
+      "city": "Boulder",
+      "location": "Boulder Open Space",
+      "difficulty": "easy",
+      "length": "2.6 mi", 
+      "time": "1h 21m"
+    },
+    "19": {
+      "id": "19",
+      "name": "Mount Sanitas via Goat Trail",
+      "city": "Boulder",
+      "location": "Boulder, Colorado",
+      "difficulty": "moderate",
+      "length": "2.1 mi", 
+      "time": "1h 34m"
+    },
+    "20": {
+      "id": "20",
+      "name": "Cub Lake to Hollowell Park via Mill Creek",
+      "city": "Estes Park",
+      "location": "Rocky Mountain National Park",
+      "difficulty": "moderate",
+      "length": "6 mi", 
+      "time": "3h 20m"
+    },
+    "21": {
+      "id": "21",
+      "name": "Hague Valley",
+      "city": "Estes Park",
+      "location": "Rocky Mountain National Park",
+      "difficulty": "hard",
+      "length": "14.1 mi", 
+      "time": "8h 58m"
+    },
+    "22": {
+      "id": "22",
+      "name": "Kissing Camels Nature Trail",
+      "city": "Colorado Springs",
+      "location": "Colorado Springs, Colorado",
+      "difficulty": "easy",
+      "length": "1.4 mi", 
+      "time": "42m"
+    },
+    "23": {
+      "id": "23",
+      "name": "Niobrara and Galloway-Homestead Loop",
+      "city": "Colorado Springs",
+      "location": "Garden of the Gods",
+      "difficulty": "easy",
+      "length": "2.1 mi", 
+      "time": "59m"
+    },
+    "24": {
+      "id": "24",
+      "name": "Garden of the Gods Loop Trail",
+      "city": "Colorado Springs",
+      "location": "Garden of the Gods",
+      "difficulty": "easy",
+      "length": "3.7 mi", 
+      "time": "1h 46m"
+    }
+} 
+
