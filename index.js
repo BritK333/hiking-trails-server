@@ -50,9 +50,9 @@ const server = new ApolloServer({
    cors: true,
    typeDefs,
    resolvers,
-   introspection: true,
+   // introspection: true,
    engine: {    
-      apiKey: process.env.APOLLO_KEY, 
+      // apiKey: process.env.APOLLO_KEY, 
       reportSchema: true,
       variant: "current"
     }
